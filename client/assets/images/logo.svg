@@ -53,16 +53,6 @@
      id="g2987"
      transform="translate(0,88)">
     <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#4b4b4b;stroke-opacity:0;stroke-width:1.58589343000000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round"
-       id="path4002"
-       sodipodi:cx="84.474579"
-       sodipodi:cy="100.33898"
-       sodipodi:rx="67.86441"
-       sodipodi:ry="67.86441"
-       d="m 152.33899,100.33898 a 67.86441,67.86441 0 1 1 -135.728822,0 67.86441,67.86441 0 1 1 135.728822,0 z"
-       transform="matrix(0.85314686,0,0,0.85314686,15.727391,-57.129312)" />
-    <path
        style="fill:#ffff00;fill-opacity:1;stroke:none"
        d=""
        id="path3864"

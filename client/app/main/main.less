@@ -1,4 +1,29 @@
 
+body::before {
+    content: "";
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -2;
+    background-image: url(../assets/images/beehive.png);
+}
+body::after {
+    content: "";
+    opacity: 0.4;
+    top: 30px;
+    right: 0;
+    width: 320px;
+    height: 200px;
+    position: absolute;
+    z-index: -1;
+    background-image: url(../assets/images/honey.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 .thing-form {
   margin: 20px 0;
 }
@@ -21,15 +46,35 @@
     text-align: center;
     text-shadow: 1px 2px 0 rgba(0, 0, 0, 0.3);
 
-    .logo {
+    .logo-wrapper {
+        position: relative;
         width: 300px;
-        cursor: pointer;
+        height: 300px;
+        margin: auto;
 
         transform: scale(.8);
         -webkit-transition: 0.2s ease-in-out;
 
         &:hover {
             transform: scale(1.2);
+        }
+
+        .logo {
+            width: 100%;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .logo-back {
+            content: ' ';
+            position: absolute;
+            top: 70px;
+            bottom: 50px;
+            right: 70px;
+            left: 50px;
+            background: #fff;
+            border-radius: 50%;
+            .box-shadow(-2px 2px 8px 0 rgba(0,0,0,.5));
         }
     }
 }
