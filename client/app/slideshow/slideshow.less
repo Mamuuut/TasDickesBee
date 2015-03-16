@@ -1,0 +1,102 @@
+.slideshow {
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    left: 0;
+    top: 0;
+    margin-top: 50px;
+    bottom: 0;
+
+    .slide {
+        position: relative;
+        display: none;
+        text-align: center;
+
+        transform: scale(0.5);
+        -webkit-transition: 0.3s ease-in-out;
+
+        slide {
+            display: block;
+        }
+
+        slideanim {
+            background-color: #fff;
+            display: block;
+
+            [data-frame] {
+                visibility: hidden;
+            }
+        }
+
+        slideframe {
+            display: block;
+            border : 8px solid #333;
+
+            iframe {
+                width : 100%;
+                height : 100%;
+                background-color: #fff;
+            }
+        }
+
+        slideimg {
+            img {
+                margin: 10px;
+                border: 8px solid #fff;
+                box-shadow: 5px 5px 8px 0px rgba(0,0,0,.5);
+            }
+        }
+
+        &.active,
+        &.prev,
+        &.next,
+        &.last,
+        &.first {
+            display: block;
+        }
+
+        &.next,
+        &.prev,
+        &.last,
+        &.first {
+            position: absolute;
+            top: 0;
+            z-index: -1;
+        }
+        &.prev {
+            left: -50%;
+        }
+        &.next {
+            left: 50%;
+        }
+        &.first {
+            left: -100%;
+        }
+        &.last {
+            left: 100%;
+        }
+
+        &.active {
+            left: 0;
+            transform: scale(1);
+        }
+    }
+}
+
+
+slidemap {
+    -webkit-transition: 0.2s ease-in-out;
+    position: absolute;
+    top: 0;
+    bottom : 0;
+    left : 0;
+    right : 0;
+    display: block;
+    z-index : 2;
+    background : #fff;
+
+    .map {
+        width : 100%;
+        height : 100%;
+    }
+}

@@ -1,9 +1,11 @@
 div(ng-include='"components/navbar/navbar.html"')
 
+span#signinButton
+
 header#banner.hero-unit
   .container
-    div.logo-wrapper
-      div.logo-back
+    a.logo-wrapper(href='/slideshow/foodcoop')
+      span.logo-back
       img.logo(src='assets/images/logo.svg', alt='Dickes Bee')
     h1 Dickes Bee
-    p.lead A foodcoop in Berlin
+    p.lead A Food-Coop in Berlin

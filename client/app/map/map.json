@@ -1,0 +1,97 @@
+{
+    "dickesbee" : {
+        "lat" : 53.2028034,
+        "lon" : 13.3898743,
+        "zoom" : 8,
+        "markers" : [
+            {
+                "lat": 53.8378802,
+                "lon": 13.0712233,
+                "title" : "Gatschow",
+                "icon": "/assets/map_icons/apple_icon.png"
+            },
+            {
+                "lat": 52.35912,
+                "lon": 13.02271,
+                "title" : "Braumanufaktur",
+                "icon": "/assets/map_icons/beer_icon.png"
+            },
+
+            {
+                "lat": 52.753162,
+                "lon": 13.6728537,
+                "title" : "Lobetaler Bio",
+                "icon": "/assets/map_icons/radis_icon.png"
+            },
+            {
+                "lat" : 52.458084,
+                "lon" : 13.289105,
+                "title" : "Domäne Dahlem",
+                "icon": "/assets/map_icons/radis_icon.png"
+            },
+            {
+                "lat" : 53.4249987,
+                "lon" : 14.1521132,
+                "title" : "Eiland Grimme",
+                "icon": "/assets/map_icons/radis_icon.png"
+            },
+            {
+                "lat" : 52.09039,
+                "lon" : 13.99778,
+                "title" : "Landgut Pretschen",
+                "icon": "/assets/map_icons/radis_icon.png"
+            },
+            {
+                "lat" : 52.39197,
+                "lon" : 13.26652,
+                "title" : "Teltower Rübchen",
+                "icon": "/assets/map_icons/radis_icon.png"
+            },
+            {
+                "lat" : 52.502169,
+                "lon" : 13.431754,
+                "title" : "Markthalle Neun",
+                "icon": "/assets/map_icons/markthalle_icon.png"
+            },
+            {
+                "lat": 52.558134,
+                "lon": 13.384568,
+                "title" : "Dickes Bee",
+                "icon": "/assets/map_icons/dickesbee_icon.png"
+            }
+
+        ]
+    },
+    "paris" : {
+        "lat" : 49.0294601,
+        "lon" : 2.9712774,
+        "zoom" : 9,
+        "markers" : [
+            {
+                "lat": 48.8953655,
+                "lon": 2.3413414,
+                "icon": "/assets/map_icons/carot_icon.png"
+            },
+            {
+                "lat": 48.8974607,
+                "lon": 2.3427921,
+                "icon": "/assets/map_icons/carot_icon.png"
+            },
+            {
+                "lat": 48.898721,
+                "lon": 2.336801,
+                "icon": "/assets/map_icons/carot_icon.png"
+            },
+            {
+                "lat": 49.2467992,
+                "lon": 3.6235342,
+                "icon": "/assets/map_icons/radis_icon.png"
+            },
+            {
+                "lat": 49.18988,
+                "lon": 2.4222278,
+                "icon": "/assets/map_icons/radis_icon.png"
+            }
+        ]
+    }
+}

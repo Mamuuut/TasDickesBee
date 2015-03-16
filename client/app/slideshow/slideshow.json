@@ -1,0 +1,229 @@
+{
+    "foodcoop" : {
+        "slides": [
+            {
+                "template" : "app/slide/foodcoop.html",
+                "type" : "slideanim"
+            }
+        ]
+    },
+    "dickesbee" : {
+        "map" : "dickesbee",
+        "slides": [
+            {
+                "url" : "https://lh5.googleusercontent.com/-JZs8hkQgEmw/VQX5b2qmbXI/AAAAAAAAAsg/fMZgrpNakVQ/w503-h670-no/db_01.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "http://www.gattel-stiftung.de/de/032_1991-00.html",
+                "type" : "slideframe"
+            },
+
+            {
+                "url" : "https://lh6.googleusercontent.com/-TUo_hfFqZmk/VQX5b8GX_uI/AAAAAAAAAss/6-6lY3CUGUg/w720-h480-no/db_00.jpg",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "http://foodsoft.dickesbee.org/",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-T5vn1x1_iic/VQX5b9S50bI/AAAAAAAAAsc/N4yT9vzXOJE/w503-h670-no/db_02.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-be5KY4r54tE/VQX5cm_AdYI/AAAAAAAAAr0/sxyWFL8zp9g/w893-h670-no/db_04.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh4.googleusercontent.com/-MvJB0l1NvKM/VQX5cx5f_UI/AAAAAAAAAsA/YA-pdbn9dwA/w893-h670-no/db_05.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-ZlmSpZqnrPc/VQX5dBzHa5I/AAAAAAAAAsk/TRbZqycCpYI/w720-h480-no/db_06.jpg",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh3.googleusercontent.com/-hEB2_Eof1Ww/VQX5dVB0LEI/AAAAAAAAAsM/-xdxTGRYpYg/w720-h480-no/db_07.jpg",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-uNyxEjG5avk/VQX5dnwcBAI/AAAAAAAAAsI/cVPt-fgGBjE/w503-h670-no/db_08.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-Dqg-QbyAt_Q/VQX5eJg-tTI/AAAAAAAAAsQ/5QXLQ1LdS-g/w720-h480-no/db_09.jpg",
+                "type" : "slideimg"
+            },
+
+            {
+                "url" : "http://www.hofladen-bauernladen.info/index.php",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "http://www.domaene-dahlem.de/home/",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "http://www.landgut-pretschen.de/Produkte/Gemuese",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "http://www.teltower-ruebchen.com/",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "http://www.lobetaler-bio.de/",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "http://www.eiland-grimme.de/",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "http://markthalleneun.de/lieferservice",
+                "type" : "slideframe"
+            },
+
+            {
+                "url" : "https://lh6.googleusercontent.com/-V9WEZ607Rko/VQXNMKoI7cI/AAAAAAAAAqc/uKGUYplj5EM/w893-h670-no/honig_01.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh3.googleusercontent.com/--nlQqae3_C4/VQXNMB8JsLI/AAAAAAAAAqU/8RXW6sYPuY4/w893-h670-no/honig_02.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-bV-h9ei-CCk/VQXNMCyDVhI/AAAAAAAAAqo/aOlkrANPuVU/w893-h670-no/honig_03.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-c9yfLfKqDpI/VQXNMjU5DhI/AAAAAAAAAqs/Vq1FbFp9hLI/w893-h670-no/honig_04.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-DWAVXOB2fu0/VQXNM4mVU-I/AAAAAAAAAqk/Ezes6vjLr94/w893-h670-no/honig_05.JPG",
+                "type" : "slideimg"
+            },
+
+            {
+                "url" : "http://braumanufaktur.de/",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-autABnot9t8/VQV_26b7hEI/AAAAAAAAAnc/vwoTGKd3_Dw/w503-h670-no/DSC05621.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-_9pv67ApWuk/VQV_26X70AI/AAAAAAAAAnY/IvZ6mGfWDHw/w503-h670-no/DSC05628.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-dNSc3Hp9MxI/VQV_2i41BgI/AAAAAAAAAnU/EArxt_T09PY/w893-h670-no/DSC05630.JPG",
+                "type" : "slideimg"
+            },
+
+            {
+                "url" : "https://lh3.googleusercontent.com/-CuiHM-_4yUo/VQXLMG2Jg3I/AAAAAAAAApo/2BcHfl4NLuw/w893-h670-no/apfelsaft_01.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-nUNRDGGcvVA/VQXLFKB7FzI/AAAAAAAAAoA/TVXva5hYfc4/w893-h670-no/apfelsaft_02.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh3.googleusercontent.com/-UESI3521QGs/VQXLFOpnvQI/AAAAAAAAAp8/2VX29bng2fo/w503-h670-no/apfelsaft_03.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-3MQNlMETHaE/VQXLGP-I5yI/AAAAAAAAAoM/qviIxlC2tiQ/w893-h670-no/apfelsaft_04.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-EUNWe73sKvs/VQXLGX_6xSI/AAAAAAAAAps/wROfbOB9-JE/w893-h670-no/apfelsaft_05.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh3.googleusercontent.com/-whyL_dnfBC8/VQXLG-2SgSI/AAAAAAAAAoY/1EZmJsT79co/w893-h670-no/apfelsaft_06.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-tOOwh50-avg/VQXLHSb1bgI/AAAAAAAAApk/qxox8XL-N9U/w503-h670-no/apfelsaft_07.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh3.googleusercontent.com/-s8i9IWzhaVw/VQXLHp53nuI/AAAAAAAAApg/4kNHCuoh74c/w778-h584-no/apfelsaft_07b.jpg",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-Nf9ceFgqwuQ/VQXLIRfhniI/AAAAAAAAApY/zoeCxtH4Mfc/w503-h670-no/apfelsaft_09.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-DpNuh8VzAlU/VQXLI6JAhZI/AAAAAAAAAo0/EcX4x6lSmKY/w893-h670-no/apfelsaft_10.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh6.googleusercontent.com/-swNe5Q86RPE/VQXLJXBHc8I/AAAAAAAAApU/OEn5Q1xM9RY/w893-h670-no/apfelsaft_11.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh4.googleusercontent.com/-Hk72HxdtXMw/VQXLJkhE4VI/AAAAAAAAApQ/ckXXXI2I95k/w893-h670-no/apfelsaft_12.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh4.googleusercontent.com/--UdTfiy9bEQ/VQXLKNBCnUI/AAAAAAAAApI/Un5Aiq8DPDE/w893-h670-no/apfelsaft_13.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-OLJGrieacVM/VQXLKTaEYtI/AAAAAAAAApE/Zcl0GREZenk/w778-h584-no/apfelsaft_13b.jpg",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh3.googleusercontent.com/-U51SA_6fl6Y/VQXLK-y6u0I/AAAAAAAAApM/9OTcQ1KfEw4/w893-h670-no/apfelsaft_14.JPG",
+                "type" : "slideimg"
+            }
+        ]
+    },
+    "paris" : {
+        "map" : "paris",
+        "slides": [
+            {
+                "url" : "https://lh4.googleusercontent.com/-WGjjMO3c1xc/VP9Y4ALNS0I/AAAAAAAAAmM/v2KpbJgz4kU/w715-h670-no/distri_01.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-b15k13mw6Cg/VP9Y4X2ujfI/AAAAAAAAAmI/5Fm4WlaWZ0c/w628-h670-no/distri_02.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh4.googleusercontent.com/-np0z9OmwXm4/VP9Y4PKDPkI/AAAAAAAAAl0/k-4GQ8jWUkI/w715-h670-no/distri_03.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh4.googleusercontent.com/-e7rt_FJpkd4/VP9Y45K4EBI/AAAAAAAAAlk/i3VnXqbopas/w715-h670-no/distri_04.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-0kqsAVRN96A/VP9Y5Px-RAI/AAAAAAAAAlo/S_sQJrb4k-0/w715-h670-no/distri_05.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-edPmB0mJDO4/VP9Y58Zj98I/AAAAAAAAAl8/3966L3ls--0/w715-h670-no/farm_02.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "http://cruaux.blogspot.de/",
+                "type" : "slideframe"
+            },
+            {
+                "url" : "https://lh4.googleusercontent.com/-Ef2D4UudA7M/VP9Y6iYwv5I/AAAAAAAAAmQ/Y6Bt02r9axc/w628-h670-no/rhum_01.JPG",
+                "type" : "slideimg"
+            },
+            {
+                "url" : "https://lh5.googleusercontent.com/-iCAvkWiaF0Y/VP9Y62rkr_I/AAAAAAAAAmE/LViDIuedgnw/w893-h670-no/rhum_02.JPG",
+                "type" : "slideimg"
+            }
+        ]
+    }
+}

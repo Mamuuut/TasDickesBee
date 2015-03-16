@@ -5,6 +5,15 @@ angular.module('tasDickesBeeApp')
     $scope.menu = [{
       'title': 'Home',
       'link': '/'
+    },{
+      'title': 'Foodcoop',
+      'link': '/slideshow/foodcoop'
+    },{
+      'title': 'Dickes Bee',
+      'link': '/slideshow/dickesbee'
+    },{
+      'title': 'Paris',
+      'link': '/slideshow/paris'
     }];
 
     $scope.isCollapsed = true;

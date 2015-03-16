@@ -1,0 +1,8 @@
+div(ng-include='"components/navbar/navbar.html"')
+
+
+.slideshow(hotkey, slideshow)
+    div.slide(ng-if="slideshow", ng-repeat="item in slideshow", class="{{item.class}}" )
+        slide(slide-type="{{item.type}}")
+
+    slidemap(ng-if="map", map="{{map}}")
