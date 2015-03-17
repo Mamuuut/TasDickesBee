@@ -1,5 +1,5 @@
 angular.module('tasDickesBeeApp')
-  .directive('slideanim', function ($window, $compile, $http, $rootScope) {
+  .directive('slideanim', function ($window, $compile, $http, $rootScope, $templateCache) {
 
     /**
      * Resize the Element to its parent size
@@ -36,10 +36,16 @@ angular.module('tasDickesBeeApp')
           onResize(element);
         });
 
-        $http.get(scope.item.template)
-          .then(function(response){
-            element.html($compile(response.data)(scope));
-          });
+        var sTemplate = $templateCache.get(scope.item.template);
+        if (sTemplate) {
+          element.html($compile(sTemplate)(scope));
+        }
+        else {
+          $http.get(scope.item.template)
+            .then(function(response){
+              element.html($compile(response.data)(scope));
+            });
+        }
       }
     };
   });
